@@ -1,2 +1,4 @@
 # ARK-2
-Source Code for ARK-2 eCFW
+Source Code of ARK-2 eCFW by qwikrazor87 and Acid_Snake.
+<br>
+`FOR ARCHIVAL PURPOSES ONLY`
